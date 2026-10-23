@@ -70,13 +70,13 @@ Install [Node.js](https://nodejs.org/) and npm.
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/NamanJain-git/leadzam-crm-redesign
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <your-project-folder>
+cd <LeadZam-UX-Assessment>
 ```
 
 Install dependencies:
