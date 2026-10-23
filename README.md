@@ -59,6 +59,21 @@ The screenshots document the existing interface and provide visual context for t
 - HTML
 - CSS
 
+## AI Tools & Usage
+
+**Tools Used:** ChatGPT
+
+- **Audit:** Helped organize UX findings and improvement ideas.
+- **Design:** Assisted with layout, visual hierarchy, and UI improvement suggestions.
+- **Frontend:** Supported React + TypeScript implementation, CSS styling, and component structure.
+
+**AI Suggestion I Improved:** I refined the lead details layout by separating Activity, Calls, Workflow, Tasks, and Revenue into tabs while keeping key lead information visible in a dedicated panel. This made the interface more organized and easier to navigate.
+
+**What I Verified Personally:** I reviewed the UI interactions, task toggles, modal behavior, responsive layout, project files, and documented limitations to ensure the README accurately reflects the implementation.
+
+AI supported my workflow, but I made the final design decisions and reviewed the implementation.
+
+
 ## Getting Started
 
 ### Prerequisites
